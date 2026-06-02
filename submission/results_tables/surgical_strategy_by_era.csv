@@ -1,0 +1,11 @@
+metric,pre-2010,2010+,comparison
+n,53,102,
+median time-to-surgery (days),36.0,26.0,p = 0.076 (Mann-Whitney)
+IQR time-to-surgery (days),17–229,15–52,
+% surgery within 30 d,45.3,55.9,
+% > 6 months to surgery (watch-and-wait),26.4,10.8,"OR 2.97, p = 0.020 (Fisher)"
+% > 12 months,22.6,5.9,
+% > 5 years,13.2,2.0,
+% EOR = GTR,47.2,57.8,
+% EOR = STR,30.2,30.4,
+% EOR = Biopsy,22.6,11.8,

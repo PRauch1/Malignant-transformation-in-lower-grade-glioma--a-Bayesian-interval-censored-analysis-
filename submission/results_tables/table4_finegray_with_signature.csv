@@ -1,0 +1,6 @@
+"term","sHR_CI","p"
+"contrast_enhancingI1","9.87 (5.56, 17.52)","0.0000"
+"age_atDiag45","1.01 (0.99, 1.03)","0.3200"
+"vol_diag_centered","1.00 (0.99, 1.01)","0.8400"
+"original_glszm_largearealowgraylevelemphasis_T1c","1.17 (0.99, 1.37)","0.0640"
+"original_gldm_dependencevariance_FLAIR","1.54 (1.13, 2.10)","0.0062"

@@ -1,0 +1,34 @@
+# ============================================================
+# Patient-level / regulated data — NEVER commit.
+# Per the data-availability policy, de-identified analysis-ready
+# data are available from the corresponding author on reasonable
+# request, subject to institutional and ethics-committee approval.
+# ============================================================
+data/*.csv
+source_data/
+*.xlsx
+*.xls
+
+# Fitted model objects can embed patient-level data — keep out.
+*.rds
+
+# Analysis runtime artifacts (regenerate by running scripts/)
+scripts/*.log
+scripts/_*
+Rplots.pdf
+
+# Python / R / editor / OS cruft
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.Rhistory
+.RData
+.Rproj.user/
+*.Rproj
+node_modules/
+.DS_Store
+.vscode/
+.idea/
+*.swp
+*~
